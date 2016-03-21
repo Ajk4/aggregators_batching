@@ -1,3 +1,3 @@
 # Aggregators Batching
 
-Code from note
+Code from blog post
