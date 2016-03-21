@@ -1,3 +1,3 @@
-# aggregators_batching
+# Aggregators Batching
 
 Code from note
